@@ -194,37 +194,22 @@ a:hover {
     font-size: 90%;
 }
 
-/* Resp */
-
-@media (max-width:640px) {
-    h1 {
-        font-size: 1.3em;
-    }
-    h2 {
-        font-size: 1.2em;
-    }
-    h3 {
-        font-size: 1.1em;
-    }
-    h4 {
-        font-size: 1em;
-    }
-    h5 {
-        font-size: 1em;
-    }
-}
-
 .todo {
     background-color: yellow;
     font-weight: bold;
 }
 
-pre {
+pre, code {
     background: none repeat scroll 0% 0% rgb(243, 243, 247);
     border: 1px solid rgb(222, 222, 227);
     padding: 11px;
     font-family: Consolas, Monaco, "Courier New", Courier, monospace;
     font-size: 12px;
+}
+code {
+    background-color: rgb(29, 29, 29);
+    border: 1px solid #ccc;
+    color: #fff;
 }
 
 .left {
@@ -274,4 +259,24 @@ li {
 .terminal {
     background-color: #000;
     color: #fff;
+}
+
+/* Resp */
+
+@media (max-width:640px) {
+    h1 {
+        font-size: 1.3em;
+    }
+    h2 {
+        font-size: 1.2em;
+    }
+    h3 {
+        font-size: 1.1em;
+    }
+    h4 {
+        font-size: 1em;
+    }
+    h5 {
+        font-size: 1em;
+    }
 }
