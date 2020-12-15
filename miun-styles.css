@@ -27,6 +27,7 @@ h1 {
     background-color: #005076;
     border-radius: 8px;
     color: #fff;
+
 }
 
 h2 {
@@ -36,6 +37,8 @@ h2 {
     border-radius: 4px;
     text-indent: 5px;
     color: #fff;
+    margin-left: 2%;
+    margin-right: 2%;
 }
 
 h3 {
@@ -45,6 +48,8 @@ h3 {
     border-radius: 3px;
     text-indent: 10px;
     color: #fff;
+    margin-left: 6%;
+    margin-right: 6%;
 }
 
 h4 {
@@ -54,16 +59,31 @@ h4 {
     border-radius: 3px;
     text-indent: 10px;
     color: #fff;
+    margin-left: 8%;
+    margin-right: 8%;
 }
 
 h5 {
     font-size: 1.1em;
     margin-bottom: 0;
+    margin-left: 8%;
+    margin-right: 8%;
 }
 
 h1, h2, h3, h4 {
     line-height: 1.5em;
     overflow: hidden;
+}
+
+p {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul, ol {
+    width: 70%;
+    margin: 1% auto;
 }
 
 div.ss {
@@ -200,16 +220,22 @@ a:hover {
 }
 
 pre, code {
+    width: 75%;
     background: none repeat scroll 0% 0% rgb(243, 243, 247);
     border: 1px solid rgb(222, 222, 227);
     padding: 11px;
+    margin-right: auto;
+    margin-left: auto;
     font-family: Consolas, Monaco, "Courier New", Courier, monospace;
     font-size: 12px;
+    white-space: pre-wrap;
 }
 code {
+    width: 75%;
     background-color: rgb(29, 29, 29);
     border: 1px solid #ccc;
     color: #fff;
+    margin-left: 12.5%;
 }
 
 .left {
