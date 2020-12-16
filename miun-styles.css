@@ -201,6 +201,7 @@ a:hover {
     text-align: center;
 }
 
+
 .demovid video {
     width: 90%;
     box-shadow: 0 0 10px #333;
@@ -306,4 +307,9 @@ li {
     h5 {
         font-size: 1em;
     }
+
+    div#container { width: 95%; }
+    p { width: 98%; }
+    .demovid iframe { width: 100%; }
+    pre, code { width: 90%;}
 }
