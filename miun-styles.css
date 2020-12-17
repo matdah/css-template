@@ -299,6 +299,8 @@ li {
     position: absolute;
     top: -10px;
     right: -10px;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 
@@ -325,4 +327,8 @@ li {
     p { width: 98%; }
     .demovid iframe { width: 100%; }
     pre, code { width: 90%;}
+
+    .important {
+        width: 80px; height: 80px;
+    }
 }
