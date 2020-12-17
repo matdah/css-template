@@ -216,11 +216,6 @@ a:hover {
     font-size: 90%;
 }
 
-.todo {
-    background-color: yellow;
-    font-weight: bold;
-}
-
 pre, code {
     width: 75%;
     background: none repeat scroll 0% 0% rgb(243, 243, 247);
@@ -298,7 +293,7 @@ li {
     background-image: url(important.png);
     position: absolute;
     top: -10px;
-    right: -20px;
+    right: -30px;
     background-repeat: no-repeat;
     background-size: cover;
 }
