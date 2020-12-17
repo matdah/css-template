@@ -286,6 +286,7 @@ li {
 
 .rel {
     position: relative;
+    padding: 1em;
 }
 .important {
     width: 150px;
