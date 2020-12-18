@@ -302,11 +302,11 @@ li {
 }
 
 aside {
-    width: 70%;
+    width: 90%;
     padding: 1em;
-    background-color: 1px solid rgb(222, 222, 227);
+    background-color: #c5ddd4;
     color: #fff;
-    border: 2px solid #006596;
+    border: 1px solid rgb(222, 222, 227);
 }
 /* Resp */
 
