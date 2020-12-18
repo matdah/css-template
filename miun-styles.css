@@ -303,6 +303,7 @@ li {
 
 aside {
     width: 70%;
+    margin: 0 auto;
     padding: 1em;
     background-color: #c5ddd4;
     color: #fff;
