@@ -302,9 +302,9 @@ li {
 }
 
 aside {
-    width: 90%;
+    width: 70%;
     padding: 1em;
-    background-color: #99C5B5;
+    background-color: 1px solid rgb(222, 222, 227);
     color: #fff;
     border: 2px solid #006596;
 }
