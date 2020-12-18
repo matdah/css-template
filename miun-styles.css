@@ -301,7 +301,13 @@ li {
     background-size: cover;
 }
 
-
+aside {
+    width: 90%;
+    padding: 1em;
+    background-color: #99C5B5;
+    color: #fff;
+    border: 2px solid #006596;
+}
 /* Resp */
 
 @media (max-width:640px) {
