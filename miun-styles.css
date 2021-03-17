@@ -86,8 +86,8 @@ ul, ol {
     width: 70%;
     margin: 1% auto;
 }
-ul ul {
-    width: 90%;
+ul ul, ul ol, ol ul, ol ol {
+    width: 95%;
     margin: 0 auto;
 }
 
