@@ -86,6 +86,10 @@ ul, ol {
     width: 70%;
     margin: 1% auto;
 }
+ul ul, ol ol {
+    width: 90%;
+    margin: 0 auto;
+}
 
 div.ss {
     width: 33%;
