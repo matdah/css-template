@@ -272,6 +272,7 @@ code {
     max-width: 100%;
     margin: 0 auto;
 }
+.illustration img { max-width: 100%; }
 
 .bildtext {
     font-style: italic;
