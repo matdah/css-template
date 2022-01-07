@@ -206,13 +206,11 @@ a:hover {
 .demovid {
     text-align: center;
 }
-
-
+.demovid iframe { border: none; }
 .demovid video {
     width: 90%;
     box-shadow: 0 0 10px #333;
 }
-
 .demovid aside {
     width: 80%;
     padding: 1%;
