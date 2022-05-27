@@ -320,6 +320,9 @@ li {
     background-color: rgb(157, 175, 255);
     border-radius: 4px;
 }
+.notify *, .notify-blue * {
+    width: 100%;
+}
 
 aside {
     width: 70%;
