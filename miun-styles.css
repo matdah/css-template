@@ -305,8 +305,10 @@ li {
 }
 
 .notify {
-    padding: 1em;
-    border: 1px solid #ccc;
+    width: 80%;
+    margin: 0 auto;
+    padding: 1.5em;
+    border: 2px solid #ccc;
     border-radius: 4px;
 }
 
