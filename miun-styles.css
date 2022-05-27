@@ -306,7 +306,7 @@ li {
 
 .notify {
     width: 80%;
-    margin: 0 auto;
+    margin: 1em auto 1em auto;
     padding: 1.5em;
     border: 2px solid #666;
     background-color: #ccc;
@@ -314,7 +314,7 @@ li {
 }
 .notify-blue {
     width: 80%;
-    margin: 0 auto;
+    margin: 1em auto 1em auto;
     padding: 1.5em;
     border: 2px solid #666;
     background-color: rgb(157, 175, 255);
