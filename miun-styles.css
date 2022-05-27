@@ -308,7 +308,16 @@ li {
     width: 80%;
     margin: 0 auto;
     padding: 1.5em;
-    border: 2px solid #ccc;
+    border: 2px solid #666;
+    background-color: #ccc;
+    border-radius: 4px;
+}
+.notify-blue {
+    width: 80%;
+    margin: 0 auto;
+    padding: 1.5em;
+    border: 2px solid #666;
+    background-color: rgb(157, 175, 255);
     border-radius: 4px;
 }
 
