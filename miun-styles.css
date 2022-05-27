@@ -305,6 +305,12 @@ li {
     background-size: cover;
 }
 
+.notify {
+    padding: 1em;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
 aside {
     width: 70%;
     margin: 0 auto;
