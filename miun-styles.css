@@ -172,6 +172,8 @@ a:hover {
     color: #000078;
 }
 
+dt { font-weight: bold; }
+
 .btn {
     color: #fff;
     background-color: #336da7;
