@@ -331,10 +331,9 @@ li {
 }
 
 .read-this {
-    background-color: green;
     background-image: url(book.svg);
     background-repeat: no-repeat;
-    background-position: 10px 40px;
+    background-position: 10px 10px;
     background-size: 50px;
     padding: 1em 4em 1em 4em;
     background-color: #faedcd;
