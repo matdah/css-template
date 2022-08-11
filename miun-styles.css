@@ -204,6 +204,7 @@ dt { font-weight: bold; }
 
 .btn:hover {
     background-color: #418dda;
+    color: #fff!important;
 }
 
 .btn-yellow { background-color: #E3B505; color: #000; }
