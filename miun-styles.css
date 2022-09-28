@@ -327,7 +327,11 @@ li {
     background-color: rgb(157, 175, 255);
     border-radius: 4px;
 }
-.notify *, .notify-blue * {
+.notify-colorful {
+    background-color: #e76f51;
+    color: #fff;
+}
+.notify *, .notify-blue *, .notify-colorful * {
     width: 100%;
 }
 
