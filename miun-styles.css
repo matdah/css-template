@@ -340,6 +340,20 @@ li {
     width: 100%;
 }
 
+.mark {
+    background-color: rgb(233, 231, 231);
+    color: #006596;
+    padding-left: 0.3em;
+    padding-right: 0.3em;
+}
+
+.mark-orange {
+    background-color: #e76f51;
+    color: #fff;
+    padding-left: 0.3em;
+    padding-right: 0.3em;
+}
+
 .read-this {
     background-image: url(book.svg);
     background-repeat: no-repeat;
