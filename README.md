@@ -12,4 +12,5 @@ Av Mattias Dahlgren, Lars Lundin och Malin Larsson.
 * malin.larsson@miun.se
 
 ### Uppdateringar
+* 2022-10-20: .mark och .mark-orange - för att markera ut inline-text, ex <span class='mark'>vikigt grej</span>
 * 2022-05-27: .notify (grå) & notify-blue - för att "puffa" element. Ex <div class='nofify'>Tänk på att...</div> 
