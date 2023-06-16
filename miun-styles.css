@@ -91,6 +91,18 @@ ul ul, ul ol, ol ul, ol ol {
     margin: 0 auto;
 }
 
+table {
+    width: 75%;
+    margin: 0 auto;
+}
+
+th,
+td {
+    text-align: left;
+    padding: 10px 5px 10px 10px;
+}
+tr:nth-child(even) {background-color: #f2f2f2;}
+
 div.ss {
     width: 33%;
     float: left;
