@@ -284,6 +284,13 @@ code {
     font-weight: bold;
 }
 
+.mark {
+    background-color: rgb(233, 231, 231);
+    color: #006596;
+    padding-left: 0.3em;
+    padding-right: 0.3em;
+}
+
 .illustration {
     display: block;
     max-width: 100%;
