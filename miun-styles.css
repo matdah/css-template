@@ -217,10 +217,11 @@ dt { font-weight: bold; }
 .btn:hover {
     background-color: #418dda;
     color: #fff!important;
+    cursor: pointer;
 }
 
 .btn-yellow { background-color: #E3B505; color: #000; }
-.btn-yellow:hover { background-color: #e7c642; }
+.btn-yellow:hover { background-color: #e7c642; cursor: pointer;}
 
 .demovid {
     text-align: center;
