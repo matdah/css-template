@@ -212,6 +212,7 @@ dt { font-weight: bold; }
     font-size: .8rem;
     line-height: 1.5;
     border-radius: 4px;
+    cursor: pointer;
 }
 
 .btn:hover {
@@ -220,7 +221,7 @@ dt { font-weight: bold; }
     cursor: pointer;
 }
 
-.btn-yellow { background-color: #E3B505; color: #000; }
+.btn-yellow { background-color: #E3B505; color: #000; cursor: pointer; }
 .btn-yellow:hover { background-color: #e7c642; cursor: pointer;}
 
 .demovid {
