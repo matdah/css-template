@@ -400,7 +400,8 @@ li {
 }
 
 .notify-colorful a {
-    color: #ccc;
+    color: #fff;
+    text-decoration: underline;
 }
 
 .mark {
