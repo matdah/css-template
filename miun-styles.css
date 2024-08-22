@@ -387,10 +387,10 @@ li {
     width: 80%;
     margin: 1em auto 1em auto;
     padding: 1.5em;
-    border: 2px solid #f4a261;
+    border: 2px solid #e76f51;
     border-radius: 4px;
-    background-color: #e76f51;
-    color: #fff;
+    background-color: #EE9781;
+    color: #000;
 }
 
 .notify *,
